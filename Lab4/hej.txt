@@ -1,0 +1,11 @@
+<html>
+<body>
+<li><b><span class="times-serif" title="Roman numeral" style="border-top: 1px solid;">XXV</span></b></li>
+<li><b><span class="times-serif" title="Roman numeral" style="border-top: 1px solid;">MMXVIII</span></b></li>
+<li><b><span class="times-serif" title="Roman numeral" style="border-top: 1px solid;">CCCVIII</span></b></li>
+<li><b><span class="times-serif" title="Roman numeral" style="border-top: 1px solid;">DXLVIII</span></b></li>
+<li><b><span class="times-serif" title="Roman numeral" style="border-top: 1px solid;">DMXVII</span></b></li>
+<li><b><span class="times-serif" title="Roman numeral" style="border-top: 1px solid;">DVIII</span></b></li>
+<li><b><span class="times-serif" title="Roman numeral" style="border-top: 1px solid;">XXXVIII</span></b></li>
+</body>
+</html>
